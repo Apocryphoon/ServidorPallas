@@ -1,0 +1,40 @@
+C:\Users\Ricardo\Desktop\DOS RICARDO\C#\pallasRestart\pallasRestart\bin\Debug\pallasRestart.exe.config
+C:\Users\Ricardo\Desktop\DOS RICARDO\C#\pallasRestart\pallasRestart\bin\Debug\pallasRestart.exe
+C:\Users\Ricardo\Desktop\DOS RICARDO\C#\pallasRestart\pallasRestart\bin\Debug\pallasRestart.pdb
+C:\Users\Ricardo\Desktop\DOS RICARDO\C#\pallasRestart\pallasRestart\obj\Debug\pallasRestart.Form1.resources
+C:\Users\Ricardo\Desktop\DOS RICARDO\C#\pallasRestart\pallasRestart\obj\Debug\pallasRestart.Properties.Resources.resources
+C:\Users\Ricardo\Desktop\DOS RICARDO\C#\pallasRestart\pallasRestart\obj\Debug\pallasRestart.csproj.GenerateResource.cache
+C:\Users\Ricardo\Desktop\DOS RICARDO\C#\pallasRestart\pallasRestart\obj\Debug\pallasRestart.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Desktop\DOS RICARDO\C#\pallasRestart\pallasRestart\obj\Debug\pallasRestart.exe
+C:\Users\Ricardo\Desktop\DOS RICARDO\C#\pallasRestart\pallasRestart\obj\Debug\pallasRestart.pdb
+C:\Users\Ricardo\Desktop\DOS RICARDO\C#\pallasRestart\pallasRestart\obj\Debug\pallasRestart.csprojAssemblyReference.cache
+C:\Users\Ricardo\Desktop\DOS RICARDO\assets\pallasRestart\pallasRestart\bin\Debug\pallasRestart.exe.config
+C:\Users\Ricardo\Desktop\DOS RICARDO\assets\pallasRestart\pallasRestart\bin\Debug\pallasRestart.exe
+C:\Users\Ricardo\Desktop\DOS RICARDO\assets\pallasRestart\pallasRestart\bin\Debug\pallasRestart.pdb
+C:\Users\Ricardo\Desktop\DOS RICARDO\assets\pallasRestart\pallasRestart\obj\Debug\pallasRestart.csprojAssemblyReference.cache
+C:\Users\Ricardo\Desktop\DOS RICARDO\assets\pallasRestart\pallasRestart\obj\Debug\pallasRestart.Pallas.resources
+C:\Users\Ricardo\Desktop\DOS RICARDO\assets\pallasRestart\pallasRestart\obj\Debug\pallasRestart.Properties.Resources.resources
+C:\Users\Ricardo\Desktop\DOS RICARDO\assets\pallasRestart\pallasRestart\obj\Debug\pallasRestart.csproj.GenerateResource.cache
+C:\Users\Ricardo\Desktop\DOS RICARDO\assets\pallasRestart\pallasRestart\obj\Debug\pallasRestart.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Desktop\DOS RICARDO\assets\pallasRestart\pallasRestart\obj\Debug\pallasRestart.exe
+C:\Users\Ricardo\Desktop\DOS RICARDO\assets\pallasRestart\pallasRestart\obj\Debug\pallasRestart.pdb
+C:\Users\Ricardo\Desktop\pallasRestart\pallasRestart\bin\Debug\pallasRestart.exe.config
+C:\Users\Ricardo\Desktop\pallasRestart\pallasRestart\bin\Debug\pallasRestart.exe
+C:\Users\Ricardo\Desktop\pallasRestart\pallasRestart\bin\Debug\pallasRestart.pdb
+C:\Users\Ricardo\Desktop\pallasRestart\pallasRestart\obj\Debug\pallasRestart.csprojAssemblyReference.cache
+C:\Users\Ricardo\Desktop\pallasRestart\pallasRestart\obj\Debug\pallasRestart.Pallas.resources
+C:\Users\Ricardo\Desktop\pallasRestart\pallasRestart\obj\Debug\pallasRestart.Properties.Resources.resources
+C:\Users\Ricardo\Desktop\pallasRestart\pallasRestart\obj\Debug\pallasRestart.csproj.GenerateResource.cache
+C:\Users\Ricardo\Desktop\pallasRestart\pallasRestart\obj\Debug\pallasRestart.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Desktop\pallasRestart\pallasRestart\obj\Debug\pallasRestart.exe
+C:\Users\Ricardo\Desktop\pallasRestart\pallasRestart\obj\Debug\pallasRestart.pdb
+C:\Users\Ricardo\Desktop\pallasRestart\code\pallasRestart\bin\Debug\pallasRestart.exe.config
+C:\Users\Ricardo\Desktop\pallasRestart\code\pallasRestart\bin\Debug\pallasRestart.exe
+C:\Users\Ricardo\Desktop\pallasRestart\code\pallasRestart\bin\Debug\pallasRestart.pdb
+C:\Users\Ricardo\Desktop\pallasRestart\code\pallasRestart\obj\Debug\pallasRestart.csprojAssemblyReference.cache
+C:\Users\Ricardo\Desktop\pallasRestart\code\pallasRestart\obj\Debug\pallasRestart.Pallas.resources
+C:\Users\Ricardo\Desktop\pallasRestart\code\pallasRestart\obj\Debug\pallasRestart.Properties.Resources.resources
+C:\Users\Ricardo\Desktop\pallasRestart\code\pallasRestart\obj\Debug\pallasRestart.csproj.GenerateResource.cache
+C:\Users\Ricardo\Desktop\pallasRestart\code\pallasRestart\obj\Debug\pallasRestart.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Desktop\pallasRestart\code\pallasRestart\obj\Debug\pallasRestart.exe
+C:\Users\Ricardo\Desktop\pallasRestart\code\pallasRestart\obj\Debug\pallasRestart.pdb

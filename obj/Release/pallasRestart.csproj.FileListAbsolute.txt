@@ -1,0 +1,30 @@
+C:\Users\Ricardo\Desktop\DOS RICARDO\C#\pallasRestart\pallasRestart\bin\Release\pallasRestart.exe.config
+C:\Users\Ricardo\Desktop\DOS RICARDO\C#\pallasRestart\pallasRestart\bin\Release\pallasRestart.exe
+C:\Users\Ricardo\Desktop\DOS RICARDO\C#\pallasRestart\pallasRestart\bin\Release\pallasRestart.pdb
+C:\Users\Ricardo\Desktop\DOS RICARDO\C#\pallasRestart\pallasRestart\obj\Release\pallasRestart.csprojAssemblyReference.cache
+C:\Users\Ricardo\Desktop\DOS RICARDO\C#\pallasRestart\pallasRestart\obj\Release\pallasRestart.Pallas.resources
+C:\Users\Ricardo\Desktop\DOS RICARDO\C#\pallasRestart\pallasRestart\obj\Release\pallasRestart.Properties.Resources.resources
+C:\Users\Ricardo\Desktop\DOS RICARDO\C#\pallasRestart\pallasRestart\obj\Release\pallasRestart.csproj.GenerateResource.cache
+C:\Users\Ricardo\Desktop\DOS RICARDO\C#\pallasRestart\pallasRestart\obj\Release\pallasRestart.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Desktop\DOS RICARDO\C#\pallasRestart\pallasRestart\obj\Release\pallasRestart.exe
+C:\Users\Ricardo\Desktop\DOS RICARDO\C#\pallasRestart\pallasRestart\obj\Release\pallasRestart.pdb
+C:\Users\Ricardo\Desktop\DOS RICARDO\assets\pallasRestart\pallasRestart\bin\Release\pallasRestart.exe.config
+C:\Users\Ricardo\Desktop\DOS RICARDO\assets\pallasRestart\pallasRestart\bin\Release\pallasRestart.exe
+C:\Users\Ricardo\Desktop\DOS RICARDO\assets\pallasRestart\pallasRestart\bin\Release\pallasRestart.pdb
+C:\Users\Ricardo\Desktop\DOS RICARDO\assets\pallasRestart\pallasRestart\obj\Release\pallasRestart.csprojAssemblyReference.cache
+C:\Users\Ricardo\Desktop\DOS RICARDO\assets\pallasRestart\pallasRestart\obj\Release\pallasRestart.Pallas.resources
+C:\Users\Ricardo\Desktop\DOS RICARDO\assets\pallasRestart\pallasRestart\obj\Release\pallasRestart.Properties.Resources.resources
+C:\Users\Ricardo\Desktop\DOS RICARDO\assets\pallasRestart\pallasRestart\obj\Release\pallasRestart.csproj.GenerateResource.cache
+C:\Users\Ricardo\Desktop\DOS RICARDO\assets\pallasRestart\pallasRestart\obj\Release\pallasRestart.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Desktop\DOS RICARDO\assets\pallasRestart\pallasRestart\obj\Release\pallasRestart.exe
+C:\Users\Ricardo\Desktop\DOS RICARDO\assets\pallasRestart\pallasRestart\obj\Release\pallasRestart.pdb
+C:\Users\Ricardo\Desktop\pallasRestart\code\pallasRestart\bin\Release\pallasRestart.exe.config
+C:\Users\Ricardo\Desktop\pallasRestart\code\pallasRestart\bin\Release\pallasRestart.exe
+C:\Users\Ricardo\Desktop\pallasRestart\code\pallasRestart\bin\Release\pallasRestart.pdb
+C:\Users\Ricardo\Desktop\pallasRestart\code\pallasRestart\obj\Release\pallasRestart.csprojAssemblyReference.cache
+C:\Users\Ricardo\Desktop\pallasRestart\code\pallasRestart\obj\Release\pallasRestart.Pallas.resources
+C:\Users\Ricardo\Desktop\pallasRestart\code\pallasRestart\obj\Release\pallasRestart.Properties.Resources.resources
+C:\Users\Ricardo\Desktop\pallasRestart\code\pallasRestart\obj\Release\pallasRestart.csproj.GenerateResource.cache
+C:\Users\Ricardo\Desktop\pallasRestart\code\pallasRestart\obj\Release\pallasRestart.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Desktop\pallasRestart\code\pallasRestart\obj\Release\pallasRestart.exe
+C:\Users\Ricardo\Desktop\pallasRestart\code\pallasRestart\obj\Release\pallasRestart.pdb
